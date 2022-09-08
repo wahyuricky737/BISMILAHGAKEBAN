@@ -11,14 +11,14 @@ let buttonMessage= {
 'forwardingScore':200,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl': 'http://github.com/Warikrr/rull',
+'mediaUrl': 'http://github.com/wahyuricky737/test',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'Mau Sc Yang Lain?,Cek Aja Channel Yt Nya',
-'body': me,
-'thumbnail': thumb2,
+'krishosting': me,
+'thum2bnail': thumb2,
 'sourceUrl': 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'}},
-'caption': 'http://github.com/Warikrr/rull',
+'caption': 'http://github.com/wahyuricky737',
 'footer': me,
 'buttons':[
 {'buttonId': _p + 'menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
